@@ -14,6 +14,7 @@ Below is a log of my daily progress, including:
 4.) What my goals are for tomorrow
 
 **January 7th**
+Today Jonah and I researched neural networks, specifically PyTorch. We found some tutorials but we could definitely find ones that are easier to read and illustrate more broadly applicable concepts. Tomorrow we will hopefully read through some better sources and get an understanding somewhat of how PyTorch works.
 
 **January 8th**
 
