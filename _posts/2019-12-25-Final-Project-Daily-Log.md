@@ -20,6 +20,7 @@ Today Jonah and I researched neural networks, specifically PyTorch. We found som
 Today I read most of the article which Lauren emailed. I sorta understand it so far. Tonight I will finish the article and read through the NN notebook on Cocalc. Then, we have to think about what we actually want to apply neural nets to.
 
 **January 9th**
+I finished reading the NN notebook, and now we'll start looking into tutorials for a translator. Hopefully we can start with Danish. We found one tutorial and maybe we should and find others. 
 
 **January 10th**
 
