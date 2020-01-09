@@ -17,6 +17,7 @@ Below is a log of my daily progress, including:
 Today Jonah and I researched neural networks, specifically PyTorch. We found some tutorials but we could definitely find ones that are easier to read and illustrate more broadly applicable concepts. Tomorrow we will hopefully read through some better sources and get an understanding somewhat of how PyTorch works.
 
 **January 8th**
+Today I read most of the article which Lauren emailed. I sorta understand it so far. Tonight I will finish the article and read through the NN notebook on Cocalc. Then, we have to think about what we actually want to apply neural nets to.
 
 **January 9th**
 
