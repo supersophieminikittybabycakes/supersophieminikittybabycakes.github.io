@@ -23,8 +23,10 @@ Today I read most of the article which Lauren emailed. I sorta understand it so 
 I finished reading the NN notebook, and now we'll start looking into tutorials for a translator. Hopefully we can start with Danish. We found one tutorial and maybe we should and find others. 
 
 **January 10th**
+We found some tutorials with different applications of NLP. We also worked on downloading all of the required packages, like PyTorch, torchtext, Spacy, and the different languages for Spacy. Next we are going to try and follow a tutorial.
 
 **January 13th**
+I tried to start following a tutorial for a translator but there is some issue loading the different language datasets. I will work on figuring out how to call them from Spacy. Jonah is not here :,( so I am sad. I hypothesize that he is taking a nap.
 
 **January 15th**
 
