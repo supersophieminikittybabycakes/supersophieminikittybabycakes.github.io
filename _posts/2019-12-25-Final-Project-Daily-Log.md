@@ -29,6 +29,7 @@ We found some tutorials with different applications of NLP. We also worked on do
 I tried to start following a tutorial for a translator but there is some issue loading the different language datasets. I will work on figuring out how to call them from Spacy. Jonah is not here :,( so I am sad. I hypothesize that he is taking a nap.
 
 **January 15th**
+The multiple errors getting the code started were cleared up and I was able to run one of the language tutorials using Seq2Seq. However, I can't figure out how to input one sentence and get the predicted output, and that would be a cool way to check our work.
 
 **January 16th**
 
